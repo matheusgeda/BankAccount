@@ -20,37 +20,37 @@ O Sistema de Conta Bancária é uma aplicação simples desenvolvida em Perl par
 
 Para usar a aplicação, siga estas etapas:
 
-# 1. Clone o Repositório
+## 1. Clone o Repositório
 ```bash
 git clone https://github.com/seu-usuario/sistema-conta-bancaria.git
 ```
-# 2. Acesse o Diretório
+## 2. Acesse o Diretório
 ```bash
 cd sistema-conta-bancaria
 ```
-# 3. Executar o Programa
+## 3. Executar o Programa
 ```bash
 perl main.pl
 ```
 
-## - Criar uma Conta:
+- **Criar uma Conta:**
    Selecione a opção "Criar uma conta".
    Siga as instruções para inserir o número da conta e o saldo inicial.
 
-## - Depositar em uma Conta:
+- **Depositar em uma Conta:**
    Selecione a opção "Depositar em uma conta".
    Insira o número da conta e o valor do depósito.
 
-## - Sacar de uma Conta:
+- **Sacar de uma Conta:**
    Selecione a opção "Sacar de uma conta".
    Insira o número da conta e o valor do saque.
 
-## - Verificar Saldo de uma Conta:
+- **Verificar Saldo de uma Conta:**
    Selecione a opção "Verificar saldo de uma conta".
    Insira o número da conta.
 
-## - Gerenciamento de Conta:
+- **Gerenciamento de Conta:**
    Selecione a opção "Gerenciamento de conta" para abrir um submenu com opções adicionais, como abrir, fechar, bloquear, desbloquear e editar contas.
 
-## 5. Encerrar a Execução
+- **Encerrar a Execução**
  Quando você terminar de usar o sistema, selecione a opção "Sair" no menu principal para encerrar a execução.
