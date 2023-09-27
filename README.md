@@ -20,11 +20,12 @@ O Sistema de Conta Bancária é uma aplicação simples desenvolvida em Perl par
 
 Para usar a aplicação, siga estas etapas:
 
-1. Clone o repositório do projeto para o seu sistema local.
-
-2. Certifique-se de que você tem Perl instalado em sua máquina.
-
-3. Execute o arquivo `main.pl` para testar as funcionalidades do sistema. Você pode criar instâncias de contas bancárias, realizar transações e gerenciar as contas conforme necessário.
-
 ```bash
+# 1. Clone o Repositório
+git clone https://github.com/seu-usuario/sistema-conta-bancaria.git
+
+# 2. Acesse o Diretório
+cd sistema-conta-bancaria
+
+# 3. Executar o Programa
 perl main.pl
