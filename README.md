@@ -33,24 +33,24 @@ cd sistema-conta-bancaria
 perl main.pl
 ```
 
-# - Criar uma Conta:
-#   Selecione a opção "Criar uma conta".
-#   Siga as instruções para inserir o número da conta e o saldo inicial.
+## - Criar uma Conta:
+   Selecione a opção "Criar uma conta".
+   Siga as instruções para inserir o número da conta e o saldo inicial.
 
-# - Depositar em uma Conta:
-#   Selecione a opção "Depositar em uma conta".
-#   Insira o número da conta e o valor do depósito.
+## - Depositar em uma Conta:
+   Selecione a opção "Depositar em uma conta".
+   Insira o número da conta e o valor do depósito.
 
-# - Sacar de uma Conta:
-#   Selecione a opção "Sacar de uma conta".
-#   Insira o número da conta e o valor do saque.
+## - Sacar de uma Conta:
+   Selecione a opção "Sacar de uma conta".
+   Insira o número da conta e o valor do saque.
 
-# - Verificar Saldo de uma Conta:
-#   Selecione a opção "Verificar saldo de uma conta".
-#   Insira o número da conta.
+## - Verificar Saldo de uma Conta:
+   Selecione a opção "Verificar saldo de uma conta".
+   Insira o número da conta.
 
-# - Gerenciamento de Conta:
-#   Selecione a opção "Gerenciamento de conta" para abrir um submenu com opções adicionais, como abrir, fechar, bloquear, desbloquear e editar contas.
+## - Gerenciamento de Conta:
+   Selecione a opção "Gerenciamento de conta" para abrir um submenu com opções adicionais, como abrir, fechar, bloquear, desbloquear e editar contas.
 
-# 5. Encerrar a Execução
-# Quando você terminar de usar o sistema, selecione a opção "Sair" no menu principal para encerrar a execução.
+## 5. Encerrar a Execução
+ Quando você terminar de usar o sistema, selecione a opção "Sair" no menu principal para encerrar a execução.
